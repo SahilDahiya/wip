@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+gsoft/data/meta_Pet_Supplies.json.gz
+gsoft/data/names.txt
+gsoft/data/Pet_Supplies.json.gz
+gsoft/data/tiny_shakespeare.txt
